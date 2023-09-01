@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1693587807 source:c:\users\oguzh\onedrive\masaüstü\c projeler\diziegzersizleri\hangiharftenkactanevar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
